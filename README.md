@@ -1,13 +1,13 @@
 # ImigracoesCanada_Analise
 
-##Objetivo
+## Objetivo
 Neste projeto vai ser analisada as taxas de imigração para o Canadá entre os anos de 1980 à 2013.
 Meu interesse era observar as mudanças ao longo dos anos e tentar analisar os motivos que levaram essas pessoas imigrarem para o Canadá em determinada época.
 
-##Fonte dos dados usados
+## Fonte dos dados usados
 link: https://github.com/alura-cursos/bibliotecas_visualizacao/blob/main/Dados/imigrantes_canada.csv
 
-##Etapas da análise
+## Etapas da análise
 1. **Leitura dos dados**: Importação e inspeção inicial do CSV.
 2. **Limpeza dos dados**: Verificação de valores nulos e tipos de dados.
 3. **Exploração**:
@@ -17,7 +17,7 @@ link: https://github.com/alura-cursos/bibliotecas_visualizacao/blob/main/Dados/i
    - Análise da Imigração dos países da América do Sul para o Canadá e em que posição o Brasil se enquadra;
    - Anáise dos 10 principais países com mais imigração para o Canadá;
 
-##Principais Resultados
+## Principais Resultados
 - As tendências de imigração do Brasil para o Canadá tem seus picos nos seguintes períodos: 1990 a 1995 e 2005 a 2010.
   Com isso podemos analisar alguns fatores que podem ter contribuído para isso:
   No Brasil dos anos 90 houve uma crise econômica que gerou desemprego e insegurança da população e no mesmo período o Canadá começou a flexibilizar sua política de imigração para atrair mão de obra qualificada para o país, com isso muitos brasileiros imigraram para o Canadá em busca de uma melhora  na qualidade de vida.
@@ -27,9 +27,10 @@ link: https://github.com/alura-cursos/bibliotecas_visualizacao/blob/main/Dados/i
 - Análisando a imigração para o Canadá entre todos os países da América do sul, o Brasil ocupa a 4° posição, ficando atrás apenas da Guiana (1°), Colômbia (2°) e Peru (3°).
 - Entre os 10 principais países que tem sua população imigrando para o Canadá neste período tem-se a Índia liderando a lista, seguida de China, Reino Unido e Irlanda do Norte, Filipinas, Pasquistão, EUA, Irã, Sri Lanka, República da Coreia e Polônia.
 
-##Tecnologias usadas
+## Tecnologias usadas
 - Python (Google Colab)
 - Bibliotecas: Pandas, Mastplotlib, Seaborn, Plotly
 
-  ##Conclusões finais
+## Conclusões finais
   Achei bem interessante realizar este projeto e poder perceber que há muito por trás de uma simples imigração, tem fatores econômicos, sociais, climáticos, políticos que só paramos para pensar quando analisamos de fato esses dados e buscamos entender os motivos e refletir de fato.
+  Este projeto foi desenvolvido juntamente com o curso de "Data Visualization" da formação Data Science da Alura, onde consegui me certificar.
